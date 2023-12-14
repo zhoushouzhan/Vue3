@@ -1,0 +1,3 @@
+开启换行
+shouldNotGroupWhenFull: true,
+"-"
